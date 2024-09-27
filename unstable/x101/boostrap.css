@@ -4298,7 +4298,7 @@ textarea.input-group-sm > .form-control, textarea.input-group-sm > .input-group-
     margin-right: 5%;
     margin-top: 2%;
     border-radius: 8px;
-    background-color: #dd4814;
+    background-color: rgba(221, 70, 20, 0.69);
     border-color:#bf3e11;    
 }
 
